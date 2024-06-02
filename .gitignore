@@ -1,0 +1,6 @@
+/.vscode
+/CMakeLists.txt
+/CMakePresets.json
+/out
+/__pycache__
+/~$Report.pptx
