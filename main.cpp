@@ -1,3 +1,16 @@
+/*** ** *
+
+©Copyright Code :
+Chloé BRICE, INSA Lyon
+Evahn LE GAL, ISIMA Clermont INP
+
+Code co-written with Chloé BRICE, with the agreement of the professor, the report and the images will nevertheless be different for each student
+Only the code was written and used as a team
+
+VS Code with OpenCV 4.9.0 and CMake 3.29.2
+
+* ** ***/
+
 #include <stdio.h>
 
 #include <opencv2/opencv.hpp>
